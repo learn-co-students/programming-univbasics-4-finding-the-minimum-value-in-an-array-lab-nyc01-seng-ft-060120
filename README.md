@@ -1,4 +1,4 @@
-# Using Loops and Arrays to Find Data
+whe# Using Loops and Arrays to Find Data
 
 ## Learning Goals
 
