@@ -1,6 +1,6 @@
 def find_min_value(array)
   counter = 0
-  min_value = 0
+  min_value = array[0]
   length = array.length
 
   while counter < length do
